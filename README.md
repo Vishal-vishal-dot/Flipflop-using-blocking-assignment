@@ -26,8 +26,10 @@ Blocking assignments execute sequentially in the given order, which makes it eas
 
 ## Block Diagram:
 
-<img width="413" height="309" alt="image" src="https://github.com/user-attachments/assets/059399a7-0cd5-4e22-a2c4-ca29184813c5" />
-
+<img width="358" height="136" alt="image" src="https://github.com/user-attachments/assets/488e164f-8da4-46eb-95de-2775b34412cd" />
+<img width="572" height="321" alt="image" src="https://github.com/user-attachments/assets/b9d091c2-6165-436f-bf88-8d91c445260f" />
+<img width="437" height="202" alt="image" src="https://github.com/user-attachments/assets/2e224839-e065-4cdb-83b8-bd7209bb7f25" />
+<img width="437" height="202" alt="image" src="https://github.com/user-attachments/assets/a824bce3-0b53-4065-867b-9d92a3fc11b5" />
 
 ## VERILOG CODE
 
